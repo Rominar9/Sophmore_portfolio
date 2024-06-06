@@ -42,7 +42,7 @@ body{
   background-repeat:no-repeat;
   background-attachment:fixed;
   background-size:cover;
-  background-image:
+  background-image: url("designingApp.png");
 }
 
 #logo{
