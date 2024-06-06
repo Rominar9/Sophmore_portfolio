@@ -1,1 +1,26 @@
+.banner{
+  background-color: rgba(243, 220, 248);
+  margin: 15px;
+  padding: 10px;
+  border: 3px solid #9735CF;
+  box-shadow: 1px 3px 30px 1px #9100B2;
+  text-transform: capitalize;
+  text-shadow: 1px 1px #7551C9 ;
+  font-family: Arial;
+  height: 120px;
+  text-align: right;
+  font-style: oblique;
+  background-image: url('background4.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+}
 
+h1{
+  font-size: 0.7em;
+}
+
+#l1{
+  border:#9100B2 1px solid;
+  background-image:repeating-linear-gradient(	#CBA8D3, #D79DC8);
+}
