@@ -51,7 +51,8 @@ body{
 }
 
 hr{
- background-color:#5C2A60;
+ border-top: 3px dotted pink;
+ border-radius: 3px;
 }
 
 .clickable-box{
