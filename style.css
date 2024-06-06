@@ -51,8 +51,8 @@ body{
 }
 
 hr{
- border-top: 3px dotted Purple;
- border-radius: 3px;
+ border-top: 10px dotted Purple;
+ border-radius: 5px;
 }
 
 .clickable-box{
