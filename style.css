@@ -44,4 +44,9 @@ body{
   background-size:cover;
 }
 
+#logo{
+  width: 100px;
+  position: absolute;
+  left: 50px;
+}
 
