@@ -24,6 +24,8 @@ h1{
   border:#9100B2 1px solid;
   background-image:repeating-linear-gradient(	#CBA8D3, #D79DC8);
 }
-
+body{
+  background-color: rgba(243, 220, 248);
+}
 
 
