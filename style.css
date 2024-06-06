@@ -28,4 +28,20 @@ body{
   background-color: rgba(243, 220, 248);
 }
 
+.container{
+  border:2px #9735CF solid;
+  box-shadow: 1px 3px 30px 1px #9100B2;
+  position: relative;
+  top: 2px;
+  margin: 15px;
+  padding: 10px;
+  height: 700px;
+  overflow: hidden;
+  background-color: rgba(243, 220, 248);
+  background-image: url('background4.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+}
+
 
